@@ -1,0 +1,58 @@
+{
+  "sign_in": "Sign in",
+  "have_no_account": "Don't have an account? ",
+  "sign_up_now":"Sign up now!",
+  "forget_password1":"Forgot your password? ",
+  "click_here": "Click here",
+  "email":"E-mail",
+  "password":"Password",
+
+  "sign_up": "Sign up",
+  "login_now":"Sign in now!",
+  "first_name":"First Name",
+  "last_name":"last Name",
+  "phone": "Phone",
+  "have_account": "Already have an account? ",
+  "by_signing": "by signing up you agree to ",
+  "our": "our",
+  "terms": "terms data policy and cookies policy",
+
+  "forget_password2":"Forgot Password",
+  "enter_mobile": "Enter your mobile phone",
+  "enter_mail": "Enter your Email",
+  "send_code": "Send Code",
+  "no_mobile": "can't reach your mobile? ",
+  "use_mail": "use your email",
+  "use_mobile": "Or use your mobile",
+
+  "we_sent_code": "We have sent you a code to your mobile *********965",
+  "enter_code": "Enter the code",
+  "new_password":"New Password",
+  "confirm_new_password":"Confirm New Password",
+  "reset_password":"Reset Password",
+  "you_registered": "You have been registered",
+  "wait_for_approval": "wait for the approval from the admin",
+
+  "home": "Home",
+  "notification": "Notification",
+  "settings": "Settings",
+  "contact_us": "Contact us",
+  "about_us": "About us",
+  "logout": "Logout",
+
+  "our_brands": "Our Brands",
+  "your_clients": "Your Clients",
+
+  "empty_cart": "Your cart looks empty",
+  "add_some_prods": "Add Some Products",
+
+  "view_client": "View Client",
+
+  "mobile_number": "Mobile Number",
+  "address_book": "Client address book",
+  "client_orders": "Client Orders",
+  "add_new_order": "Add new order",
+
+  "orders": "Orders",
+  "order_number": "Order number"
+}
